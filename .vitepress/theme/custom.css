@@ -1,0 +1,13 @@
+.VPSidebarItem .item[role="button"] p {
+  text-transform: uppercase;
+  font-weight: 600 !important;
+  font-size: 80% !important;
+  opacity: 0.5;
+  margin-top: 10px;
+  margin-bottom: 2px;
+}
+
+a[href="#"] {
+  pointer-events: none;
+  text-decoration: none;
+}
