@@ -5,6 +5,7 @@ export default defineConfig({
   title: "Advent Garden",
   description: "A VitePress Site",
   publicDir: "../",
+  outDir: "..",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [{ text: "Home", link: "/" }],
